@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelOne", "LevelOne\LevelOne.csproj", "{DA185603-3D4E-45CD-BA37-D976CBD2655F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelTwo", "LevelTwo\LevelTwo.csproj", "{977CC030-915D-4730-80BB-215AFEBFE51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoGoodLib", "SoGoodLib\SoGoodLib.csproj", "{92696EC2-B0C1-45F8-B617-161B96DC57D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{DA185603-3D4E-45CD-BA37-D976CBD2655F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA185603-3D4E-45CD-BA37-D976CBD2655F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA185603-3D4E-45CD-BA37-D976CBD2655F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977CC030-915D-4730-80BB-215AFEBFE51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977CC030-915D-4730-80BB-215AFEBFE51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977CC030-915D-4730-80BB-215AFEBFE51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977CC030-915D-4730-80BB-215AFEBFE51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92696EC2-B0C1-45F8-B617-161B96DC57D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92696EC2-B0C1-45F8-B617-161B96DC57D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92696EC2-B0C1-45F8-B617-161B96DC57D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92696EC2-B0C1-45F8-B617-161B96DC57D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
